@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*_cache/
+/cache/
+.Renviron
+data/
+olympics_evolution/rsconnect/

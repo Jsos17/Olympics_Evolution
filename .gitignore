@@ -6,5 +6,6 @@
 *_cache/
 /cache/
 .Renviron
-data/
+data/*
 olympics_evolution/rsconnect/
+!*data/noc_regions_continents.csv

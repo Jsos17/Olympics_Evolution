@@ -12,7 +12,7 @@ Many thanks to **rgriffin** (Kaggle username) / **rgriff23** (GitHub username) f
 
 I have personally augmented the data by collecting information on continents the countries belong to and by adding more descriptive National Olympic Committee (NOC) names. This augmented information is available at [data/noc_regions_continents.csv](data/noc_regions_continents.csv).
 
-All of the data that the application needs is contained in *olympics_evolution/data_for_app/Olympics.RData*. This file was created with the R script [R/modify_create_dataset.R](R/modify_create_dataset.R). The script loads the file *athlete_events.csv* (available from Kaggle) and the augmented file *noc_regions_continents.csv* (available here in the data directory) and then creates the file *olympics_evolution/data_for_app/Olympics.RData* which the application loads before it launches. The R script is provided for reference only and, there is no need to run it since the directory *olympics_evolution/* already contains everything the application needs.
+All of the data that the application needs is contained in *olympics_evolution/data_for_app/Olympics.RData*. This file was created with the R script [R/modify_create_dataset.R](R/modify_create_dataset.R). The script loads the file *athlete_events.csv* (available from Kaggle) and the augmented file *noc_regions_continents.csv* (available here in the data directory) and then creates the file *olympics_evolution/data_for_app/Olympics.RData* which the application loads before it launches. The R script is provided for reference only and there is no need to run it since the directory *olympics_evolution/* already contains everything the application needs.
 
 ## R Libraries Used in This Application
 

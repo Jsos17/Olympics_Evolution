@@ -32,4 +32,4 @@ All of the data that the application needs is contained in *olympics_evolution/d
 
 ## My Inspiration and Practical Guidance for Building the Application
 
-The technical implementation of the web application and the interactive data visualizations within it draw inspiration and practical guidance from the online books [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/) by Carson Sievert and [Mastering Shiny](https://mastering-shiny.org/) by Hadley Wickham. Additionally, the design process behind the visualizations themselves follows the theoretical foundation taught during the course.
+The technical implementation of the web application and the interactive data visualizations within it draw inspiration and practical guidance from the online books [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/) by Carson Sievert and [Mastering Shiny](https://mastering-shiny.org/) by Hadley Wickham. Additionally, the design process behind the visualizations themselves follows theoretical foundations taught during the course.

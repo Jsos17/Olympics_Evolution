@@ -8,7 +8,7 @@ The application is available at [](). I am using a free plan offered by [shinyap
 
 My interactive data visualization is based on historical Olympic Games data available from Kaggle: [https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). The GitHub repository that corresponds to the Kaggle data is [https://github.com/rgriff23/Olympic_history](https://github.com/rgriff23/Olympic_history).
 
-Many thanks **rgriffin** (Kaggle username) / **rgriff23** (GitHub username) for making this data available in a convenient format!
+Many thanks to **rgriffin** (Kaggle username) / **rgriff23** (GitHub username) for making this data available in a convenient format!
 
 I have personally augmented the data by collecting information on continents the countries belong to and by adding more descriptive National Olympic Committee (NOC) names. This augmented information is available at [data/noc_regions_continents.csv](data/noc_regions_continents.csv).
 

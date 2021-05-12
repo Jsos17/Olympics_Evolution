@@ -290,8 +290,8 @@ server <- function(input, output, session) {
 
     sports_events <- reactive({
       games %>%
-        select(Games, Gender, Year, Season, City, N_sports_by_games, N_events_by_games) %>%
-        distinct(Games, Gender, .keep_all = TRUE) %>%
+        select(Games, Year, Season, City, N_sports_by_games, N_events_by_games) %>%
+        distinct(Games, .keep_all = TRUE) %>%
         filter(Season == input$seasonSportsEvents) %>%
         pivot_longer(cols=c(N_sports_by_games, N_events_by_games),
                      names_to="Variable",

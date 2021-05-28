@@ -1,4 +1,4 @@
-# Some Perspectives on the Evolution of the Modern Olympic Games from 1896 to 2016
+# Visualizing the Evolution of the Modern Olympic Games from 1896 to 2016
 
 This repository contains a Shiny web application which displays multiple interactive data visualizations showing some viewpoints for the evolution of the modern Olympic Games from 1896 to 2016. I created the web application as a part of the coursework for the data science course Interactive Data Visualization offered by the University of Helsinki. The interactive visualizations are powered by Plotly's R library.
 

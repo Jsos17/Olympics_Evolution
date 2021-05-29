@@ -6,7 +6,7 @@ The application is available at [https://jsos17.shinyapps.io/olympics_evolution/
 
 ## Data Set and Acknowledgements
 
-My interactive data visualization is based on historical Olympic Games data available from Kaggle: [https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). The GitHub repository that corresponds to the Kaggle data is [https://github.com/rgriff23/Olympic_history](https://github.com/rgriff23/Olympic_history).
+My interactive data visualizations are based on historical Olympic Games data available from Kaggle: [https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). The GitHub repository that corresponds to the Kaggle data is [https://github.com/rgriff23/Olympic_history](https://github.com/rgriff23/Olympic_history).
 
 Many thanks to **rgriffin** (Kaggle username) / **rgriff23** (GitHub username) for making this data available in a convenient format!
 
